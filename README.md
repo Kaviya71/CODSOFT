@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐍 CodSoft Python Programming Internship
 ### Batch - APRIL BATCH B92
 
@@ -86,3 +87,6 @@ CodSoft is a vibrant community focused on leadership development, learning, and 
 - 🌐 [www.codsoft.in](https://www.codsoft.in)
 - 📧 contact@codsoft.in
 - 💼 [LinkedIn - CodSoft](https://linkedin.com/company/codsoft)
+=======
+# CODSOFT
+>>>>>>> 83e4147df65e094fb1dbdd790c52afe1dc84c950
